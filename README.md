@@ -7,7 +7,7 @@ The main objective of this project is to gain insights into crash patterns and s
 ## Repository Files
 The project is organised as follows:
 
-data/: Please download the dataset from https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road_Safety/ACCIDENT.zip.
+data/: Please download the dataset from https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road_Safety/ACCIDENT.zip. (Note: PERSON.csv and VEHICLE.csv files were cleaned to remove empty space)
 
 code/: This file contains Jupyter Notebook file with the code for data analysis, feature selection, modeling, and visualisation.
 
